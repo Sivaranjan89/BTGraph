@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BarGraph">
+        <attr name="barWidth" format="dimension" />
+        <attr name="barHeight" format="dimension" />
+        <attr name="singleBar" format="boolean" />
+        <attr name="graphOrientation" format="integer">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="barRadius" format="dimension" />
+        <attr name="shouldAnimate" format="boolean" />
+        <attr name="shouldBounceAnimate" format="boolean" />
+        <attr name="animationDuration" format="integer" />
+        <attr name="showLegend" format="boolean" />
+        <attr name="legendIconSize" format="dimension" />
+        <attr name="legendTextSize" format="dimension" />
+        <attr name="legendTextColor" format="color" />
+        <attr name="legendTextStyle" format="integer">
+            <enum name="bold" value="1" />
+            <enum name="normal" value="0" />
+        </attr>
+        <attr name="showLegendPercentage" format="boolean" />
+    </declare-styleable>
+
+</resources>

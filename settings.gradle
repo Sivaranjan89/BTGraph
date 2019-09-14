@@ -1,2 +1,2 @@
-include ':app', ':uigraph'
+include ':app', ':bargraph'
 rootProject.name='BTGraph'
