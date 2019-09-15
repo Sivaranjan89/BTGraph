@@ -28,69 +28,69 @@ Add the dependency in build.gradle(module) : <br />
 
 # Sample Usage
 ## Single Bar Horizontal
-<com.droid.uigraph.BarGraph </br>
-        android:id="@+id/bar" </br>
-        android:layout_width="wrap_content" </br>
-        android:layout_height="wrap_content" </br>
-        android:layout_gravity="center" </br>
-        android:layout_marginTop="20dp" </br>
-        app:barWidth="250dp" </br>
-        app:barHeight="50dp" </br>
-        app:barRadius="5dp" </br>
-        app:showLegend="true" </br>
-        app:shouldBounceAnimate="true" </br>
-        app:animationDuration="1500" </br>
-        app:singleBar="true" </br>
-        app:graphOrientation="horizontal" </br>
-        /> </br>
+<com.droid.uigraph.BarGraph</br>
+        android:id="@+id/bar"</br>
+        android:layout_width="wrap_content"</br>
+        android:layout_height="wrap_content"</br>
+        android:layout_gravity="center"</br>
+        android:layout_marginTop="20dp"</br>
+        app:barWidth="250dp"</br>
+        app:barHeight="50dp"</br>
+        app:barRadius="5dp"</br>
+        app:showLegend="true"</br>
+        app:shouldBounceAnimate="true"</br>
+        app:animationDuration="1500"</br>
+        app:singleBar="true"</br>
+        app:graphOrientation="horizontal"</br>
+        /></br>
         
 ## Multi Bar Horizontal
-<com.droid.uigraph.BarGraph </br>
-        android:id="@+id/bar" </br>
-        android:layout_width="wrap_content" </br>
-        android:layout_height="wrap_content" </br>
-        android:layout_gravity="center" </br>
-        android:layout_marginTop="20dp" </br>
-        app:barWidth="250dp" </br>
-        app:barHeight="50dp" </br>
-        app:barRadius="5dp" </br>
-        app:showLegend="true" </br>
-        app:shouldBounceAnimate="true" </br>
-        app:animationDuration="1500" </br>
-        app:singleBar="false" </br>
-        app:graphOrientation="horizontal" </br>
-        /> </br>
+<com.droid.uigraph.BarGraph</br>
+        android:id="@+id/bar"</br>
+        android:layout_width="wrap_content"</br>
+        android:layout_height="wrap_content"</br>
+        android:layout_gravity="center"</br>
+        android:layout_marginTop="20dp"</br>
+        app:barWidth="250dp"</br>
+        app:barHeight="50dp"</br>
+        app:barRadius="5dp"</br>
+        app:showLegend="true"</br>
+        app:shouldBounceAnimate="true"</br>
+        app:animationDuration="1500"</br>
+        app:singleBar="false"</br>
+        app:graphOrientation="horizontal"</br>
+        /></br>
         
 ## Single Bar Vertical
-<com.droid.uigraph.BarGraph </br>
-        android:id="@+id/bar" </br>
-        android:layout_width="wrap_content" </br>
-        android:layout_height="wrap_content" </br>
-        android:layout_gravity="center" </br>
-        android:layout_marginTop="20dp" </br>
-        app:barWidth="250dp" </br>
-        app:barHeight="50dp" </br>
-        app:barRadius="5dp" </br>
-        app:showLegend="true" </br>
-        app:shouldBounceAnimate="true" </br>
-        app:animationDuration="1500" </br>
-        app:singleBar="true" </br>
-        app:graphOrientation="vertical" </br>
-        /> </br>
+<com.droid.uigraph.BarGraph</br>
+        android:id="@+id/bar"</br>
+        android:layout_width="wrap_content"</br>
+        android:layout_height="wrap_content"</br>
+        android:layout_gravity="center"</br>
+        android:layout_marginTop="20dp"</br>
+        app:barWidth="250dp"</br>
+        app:barHeight="50dp"</br>
+        app:barRadius="5dp"</br>
+        app:showLegend="true"</br>
+        app:shouldBounceAnimate="true"</br>
+        app:animationDuration="1500"</br>
+        app:singleBar="true"</br>
+        app:graphOrientation="vertical"</br>
+        /></br>
         
 ## Multi Bar Vertical
-<com.droid.uigraph.BarGraph </br>
-        android:id="@+id/bar" </br>
-        android:layout_width="wrap_content" </br>
-        android:layout_height="wrap_content" </br>
-        android:layout_gravity="center" </br>
-        android:layout_marginTop="20dp" </br>
-        app:barWidth="250dp" </br>
-        app:barHeight="50dp" </br>
-        app:barRadius="5dp" </br>
-        app:showLegend="true" </br>
-        app:shouldBounceAnimate="true" </br>
-        app:animationDuration="1500" </br>
-        app:singleBar="false" </br>
-        app:graphOrientation="vertical" </br>
-        /> </br>
+<com.droid.uigraph.BarGraph</br>
+        android:id="@+id/bar"</br>
+        android:layout_width="wrap_content"</br>
+        android:layout_height="wrap_content"</br>
+        android:layout_gravity="center"</br>
+        android:layout_marginTop="20dp"</br>
+        app:barWidth="250dp"</br>
+        app:barHeight="50dp"</br>
+        app:barRadius="5dp"</br>
+        app:showLegend="true"</br>
+        app:shouldBounceAnimate="true"</br>
+        app:animationDuration="1500"</br>
+        app:singleBar="false"</br>
+        app:graphOrientation="vertical"</br>
+        /></br>
